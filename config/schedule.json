@@ -1,0 +1,22 @@
+{
+  "timeZone": "Europe/Warsaw",
+  "workDays": [1, 2, 3, 4, 5],
+  "skipPolishHolidays": true,
+  "customHolidays": [
+    "2026-12-24",
+    "2026-12-31"
+  ],
+  "customWorkDays": [],
+  "startWindow": {
+    "earliest": "06:45",
+    "latest": "08:45"
+  },
+  "workDuration": {
+    "targetHours": 8,
+    "varianceMinutes": 15
+  },
+  "endWindow": {
+    "earliest": "15:00",
+    "latest": "17:00"
+  }
+}

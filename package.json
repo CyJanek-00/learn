@@ -6,7 +6,10 @@
   "scripts": {
     "cypress": "npx cypress open",
     "start": "npx cypress run --spec cypress/e2e/login-and-start-work.cy.ts",
-    "end": "npx cypress run --spec cypress/e2e/login-and-end-work.cy.ts"
+    "end": "npx cypress run --spec cypress/e2e/login-and-end-work.cy.ts",
+    "schedule:start": "node scripts/runner-start.js",
+    "schedule:end": "node scripts/runner-end.js",
+    "schedule:check": "node scripts/check-schedule.js"
   },
   "keywords": [],
   "author": "",
