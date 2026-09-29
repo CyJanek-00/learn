@@ -11,6 +11,7 @@
     "earliest": "06:45",
     "latest": "08:45"
   },
+
   "workDuration": {
     "targetHours": 8,
     "varianceMinutes": 15
