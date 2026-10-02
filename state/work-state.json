@@ -1,9 +1,9 @@
 {
-  "date": null,
-  "status": "INITIALIZED",
-  "startedAt": null,
-  "plannedEndTime": null,
-  "plannedDurationMinutes": null,
+  "date": "2026-10-02",
+  "status": "STARTED",
+  "startedAt": "2026-10-02T08:16:53.611+02:00",
+  "plannedEndTime": "2026-10-02T16:07:53.611+02:00",
+  "plannedDurationMinutes": 471,
   "endedAt": null,
   "actualDurationMinutes": null
 }
